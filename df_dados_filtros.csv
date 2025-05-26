@@ -1,0 +1,438 @@
+,Ano,Distrito
+0,Histórico,Lisboa
+8,Histórico,Porto
+16,Histórico,Açores
+24,Histórico,Aveiro
+32,Histórico,Beja
+40,Histórico,Braga
+48,Histórico,Bragança
+56,Histórico,Castelo Branco
+64,Histórico,Coimbra
+72,Histórico,Europa
+80,Histórico,Évora
+88,Histórico,Faro
+96,Histórico,Fora da Europa
+104,Histórico,Guarda
+112,Histórico,Leiria
+120,Histórico,Madeira
+128,Histórico,Portalegre
+136,Histórico,Santarém
+144,Histórico,Setúbal
+152,Histórico,Viana do Castelo
+160,Histórico,Vila Real
+168,Histórico,Viseu
+176,Histórico, Totais
+184,Sondagens,Lisboa
+192,Sondagens,Porto
+200,Sondagens,Açores
+208,Sondagens,Aveiro
+216,Sondagens,Beja
+224,Sondagens,Braga
+232,Sondagens,Bragança
+240,Sondagens,Castelo Branco
+248,Sondagens,Coimbra
+256,Sondagens,Europa
+264,Sondagens,Évora
+272,Sondagens,Faro
+280,Sondagens,Fora da Europa
+288,Sondagens,Guarda
+296,Sondagens,Leiria
+304,Sondagens,Madeira
+312,Sondagens,Portalegre
+320,Sondagens,Santarém
+328,Sondagens,Setúbal
+336,Sondagens,Viana do Castelo
+344,Sondagens,Vila Real
+352,Sondagens,Viseu
+360,Sondagens, Totais
+368,Expetativas,Lisboa
+377,Expetativas,Porto
+386,Expetativas,Açores
+395,Expetativas,Aveiro
+404,Expetativas,Beja
+413,Expetativas,Braga
+422,Expetativas,Bragança
+431,Expetativas,Castelo Branco
+440,Expetativas,Coimbra
+449,Expetativas,Europa
+458,Expetativas,Évora
+467,Expetativas,Faro
+476,Expetativas,Fora da Europa
+485,Expetativas,Guarda
+494,Expetativas,Leiria
+503,Expetativas,Madeira
+512,Expetativas,Portalegre
+521,Expetativas,Santarém
+530,Expetativas,Setúbal
+539,Expetativas,Viana do Castelo
+548,Expetativas,Vila Real
+557,Expetativas,Viseu
+566,Expetativas, Totais
+574,1980,Açores
+575,1980,Aveiro
+576,1980,Beja
+577,1980,Braga
+578,1980,Bragança
+579,1980,Castelo Branco
+580,1980,Coimbra
+581,1980,Europa
+582,1980,Évora
+583,1980,Faro
+584,1980,Fora da Europa
+585,1980,Guarda
+586,1980,Leiria
+587,1980,Lisboa
+588,1980,Madeira
+589,1980,Portalegre
+590,1980,Porto
+591,1980,Santarém
+592,1980,Setúbal
+593,1980, Totais
+594,1980,Viana do Castelo
+595,1980,Vila Real
+596,1980,Viseu
+597,1983,Açores
+598,1983,Aveiro
+599,1983,Beja
+600,1983,Braga
+601,1983,Bragança
+602,1983,Castelo Branco
+603,1983,Coimbra
+604,1983,Europa
+605,1983,Évora
+606,1983,Faro
+607,1983,Fora da Europa
+608,1983,Guarda
+609,1983,Leiria
+610,1983,Lisboa
+611,1983,Madeira
+612,1983,Portalegre
+613,1983,Porto
+614,1983,Santarém
+615,1983,Setúbal
+616,1983, Totais
+617,1983,Viana do Castelo
+618,1983,Vila Real
+619,1983,Viseu
+620,1985,Açores
+621,1985,Aveiro
+622,1985,Beja
+623,1985,Braga
+624,1985,Bragança
+625,1985,Castelo Branco
+626,1985,Coimbra
+627,1985,Europa
+628,1985,Évora
+629,1985,Faro
+630,1985,Fora da Europa
+631,1985,Guarda
+632,1985,Leiria
+633,1985,Lisboa
+634,1985,Madeira
+635,1985,Portalegre
+636,1985,Porto
+637,1985,Santarém
+638,1985,Setúbal
+639,1985, Totais
+640,1985,Viana do Castelo
+641,1985,Vila Real
+642,1985,Viseu
+643,1987,Açores
+644,1987,Aveiro
+645,1987,Beja
+646,1987,Braga
+647,1987,Bragança
+648,1987,Castelo Branco
+649,1987,Coimbra
+650,1987,Europa
+651,1987,Évora
+652,1987,Faro
+653,1987,Fora da Europa
+654,1987,Guarda
+655,1987,Leiria
+656,1987,Lisboa
+657,1987,Madeira
+658,1987,Portalegre
+659,1987,Porto
+660,1987,Santarém
+661,1987,Setúbal
+662,1987, Totais
+663,1987,Viana do Castelo
+664,1987,Vila Real
+665,1987,Viseu
+666,1991,Açores
+667,1991,Aveiro
+668,1991,Beja
+669,1991,Braga
+670,1991,Bragança
+671,1991,Castelo Branco
+672,1991,Coimbra
+673,1991,Europa
+674,1991,Évora
+675,1991,Faro
+676,1991,Fora da Europa
+677,1991,Guarda
+678,1991,Leiria
+679,1991,Lisboa
+680,1991,Madeira
+681,1991,Portalegre
+682,1991,Porto
+683,1991,Santarém
+684,1991,Setúbal
+685,1991, Totais
+686,1991,Viana do Castelo
+687,1991,Vila Real
+688,1991,Viseu
+689,1995,Açores
+690,1995,Aveiro
+691,1995,Beja
+692,1995,Braga
+693,1995,Bragança
+694,1995,Castelo Branco
+695,1995,Coimbra
+696,1995,Europa
+697,1995,Évora
+698,1995,Faro
+699,1995,Fora da Europa
+700,1995,Guarda
+701,1995,Leiria
+702,1995,Lisboa
+703,1995,Madeira
+704,1995,Portalegre
+705,1995,Porto
+706,1995,Santarém
+707,1995,Setúbal
+708,1995, Totais
+709,1995,Viana do Castelo
+710,1995,Vila Real
+711,1995,Viseu
+712,1999,Açores
+713,1999,Aveiro
+714,1999,Beja
+715,1999,Braga
+716,1999,Bragança
+717,1999,Castelo Branco
+718,1999,Coimbra
+719,1999,Europa
+720,1999,Évora
+721,1999,Faro
+722,1999,Fora da Europa
+723,1999,Guarda
+724,1999,Leiria
+725,1999,Lisboa
+726,1999,Madeira
+727,1999,Portalegre
+728,1999,Porto
+729,1999,Santarém
+730,1999,Setúbal
+731,1999, Totais
+732,1999,Viana do Castelo
+733,1999,Vila Real
+734,1999,Viseu
+735,2002,Açores
+736,2002,Aveiro
+737,2002,Beja
+738,2002,Braga
+739,2002,Bragança
+740,2002,Castelo Branco
+741,2002,Coimbra
+742,2002,Europa
+743,2002,Évora
+744,2002,Faro
+745,2002,Fora da Europa
+746,2002,Guarda
+747,2002,Leiria
+748,2002,Lisboa
+749,2002,Madeira
+750,2002,Portalegre
+751,2002,Porto
+752,2002,Santarém
+753,2002,Setúbal
+754,2002, Totais
+755,2002,Viana do Castelo
+756,2002,Vila Real
+757,2002,Viseu
+758,2005,Açores
+759,2005,Aveiro
+760,2005,Beja
+761,2005,Braga
+762,2005,Bragança
+763,2005,Castelo Branco
+764,2005,Coimbra
+765,2005,Europa
+766,2005,Évora
+767,2005,Faro
+768,2005,Fora da Europa
+769,2005,Guarda
+770,2005,Leiria
+771,2005,Lisboa
+772,2005,Madeira
+773,2005,Portalegre
+774,2005,Porto
+775,2005,Santarém
+776,2005,Setúbal
+777,2005, Totais
+778,2005,Viana do Castelo
+779,2005,Vila Real
+780,2005,Viseu
+781,2009,Açores
+782,2009,Aveiro
+783,2009,Beja
+784,2009,Braga
+785,2009,Bragança
+786,2009,Castelo Branco
+787,2009,Coimbra
+788,2009,Europa
+789,2009,Évora
+790,2009,Faro
+791,2009,Fora da Europa
+792,2009,Guarda
+793,2009,Leiria
+794,2009,Lisboa
+795,2009,Madeira
+796,2009,Portalegre
+797,2009,Porto
+798,2009,Santarém
+799,2009,Setúbal
+800,2009, Totais
+801,2009,Viana do Castelo
+802,2009,Vila Real
+803,2009,Viseu
+804,2011,Açores
+805,2011,Aveiro
+806,2011,Beja
+807,2011,Braga
+808,2011,Bragança
+809,2011,Castelo Branco
+810,2011,Coimbra
+811,2011,Europa
+812,2011,Évora
+813,2011,Faro
+814,2011,Fora da Europa
+815,2011,Guarda
+816,2011,Leiria
+817,2011,Lisboa
+818,2011,Madeira
+819,2011,Portalegre
+820,2011,Porto
+821,2011,Santarém
+822,2011,Setúbal
+823,2011, Totais
+824,2011,Viana do Castelo
+825,2011,Vila Real
+826,2011,Viseu
+827,2015,Açores
+828,2015,Aveiro
+829,2015,Beja
+830,2015,Braga
+831,2015,Bragança
+832,2015,Castelo Branco
+833,2015,Coimbra
+834,2015,Europa
+835,2015,Évora
+836,2015,Faro
+837,2015,Fora da Europa
+838,2015,Guarda
+839,2015,Leiria
+840,2015,Lisboa
+841,2015,Madeira
+842,2015,Portalegre
+843,2015,Porto
+844,2015,Santarém
+845,2015,Setúbal
+846,2015, Totais
+847,2015,Viana do Castelo
+848,2015,Vila Real
+849,2015,Viseu
+850,2019,Açores
+851,2019,Aveiro
+852,2019,Beja
+853,2019,Braga
+854,2019,Bragança
+855,2019,Castelo Branco
+856,2019,Coimbra
+857,2019,Europa
+858,2019,Évora
+859,2019,Faro
+860,2019,Fora da Europa
+861,2019,Guarda
+862,2019,Leiria
+863,2019,Lisboa
+864,2019,Madeira
+865,2019,Portalegre
+866,2019,Porto
+867,2019,Santarém
+868,2019,Setúbal
+869,2019, Totais
+870,2019,Viana do Castelo
+871,2019,Vila Real
+872,2019,Viseu
+873,2022,Açores
+874,2022,Aveiro
+875,2022,Beja
+876,2022,Braga
+877,2022,Bragança
+878,2022,Castelo Branco
+879,2022,Coimbra
+880,2022,Europa
+881,2022,Évora
+882,2022,Faro
+883,2022,Fora da Europa
+884,2022,Guarda
+885,2022,Leiria
+886,2022,Lisboa
+887,2022,Madeira
+888,2022,Portalegre
+889,2022,Porto
+890,2022,Santarém
+891,2022,Setúbal
+892,2022, Totais
+893,2022,Viana do Castelo
+894,2022,Vila Real
+895,2022,Viseu
+896,2024,Açores
+897,2024,Aveiro
+898,2024,Beja
+899,2024,Braga
+900,2024,Bragança
+901,2024,Castelo Branco
+902,2024,Coimbra
+903,2024,Europa
+904,2024,Évora
+905,2024,Faro
+906,2024,Fora da Europa
+907,2024,Guarda
+908,2024,Leiria
+909,2024,Lisboa
+910,2024,Madeira
+911,2024,Portalegre
+912,2024,Porto
+913,2024,Santarém
+914,2024,Setúbal
+915,2024, Totais
+916,2024,Viana do Castelo
+917,2024,Vila Real
+918,2024,Viseu
+2621,2025,Aveiro
+2629,2025,Beja
+2637,2025,Braga
+2645,2025,Bragança
+2653,2025,Castelo Branco
+2661,2025,Coimbra
+2669,2025,Évora
+2677,2025,Faro
+2685,2025,Guarda
+2693,2025,Leiria
+2701,2025,Lisboa
+2709,2025,Portalegre
+2717,2025,Porto
+2725,2025,Santarém
+2733,2025,Setúbal
+2741,2025,Viana do Castelo
+2749,2025,Vila Real
+2757,2025,Viseu
+2765,2025,Açores
+2773,2025,Madeira
+2781,2025,Europa
+2789,2025,Fora da Europa
+2797,2025, Totais
